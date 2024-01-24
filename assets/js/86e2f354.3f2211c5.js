@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2398],{70:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/FFramework-Docs/blog/tags/hello","allTagsPath":"/FFramework-Docs/blog/tags","count":2,"unlisted":false}')}}]);
